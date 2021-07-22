@@ -26,7 +26,7 @@ spec:
                   key: MONGODB_URI
             
             - name: MONGODB_OPLOG
-              value: true
+              value: "true"
 
             - name: BUCKET_URI
               valueFrom:
